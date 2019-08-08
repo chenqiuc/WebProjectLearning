@@ -16,5 +16,9 @@
     <servlet-name>GetAlienController</servlet-name>
     <url-pattern>/getALien</url-pattern>
   </servlet-mapping>
+  <welcome-file-list>
+  	<welcome-file>index.jsp</welcome-file>
+  	<welcome-file>index.html</welcome-file>
+  </welcome-file-list>
   
 </web-app>

@@ -6,12 +6,7 @@ public class Alien {
 	private int aid;
 	private String tech;
 	
-	public Alien(){
-		
-		
-		
-		
-	}
+	public Alien(){ }
 
 	public String getAname() {
 		return aname;

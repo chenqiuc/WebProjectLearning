@@ -8,7 +8,8 @@ public class AlienDao {
 	public Alien getAlien(int aid) {
 		Alien a = new Alien();
 		a.setAid(101);
-		a.setAname(aname);
-		a.setTech(tech);
+		a.setAname("Kaml");
+		a.setTech("Java");
+		return a;
 	}
 }
